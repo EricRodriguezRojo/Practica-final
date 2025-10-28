@@ -10,7 +10,6 @@ elif hora_referencia > 23:
     print("La hora de referncia es incorrecta")
 else:
     print("La hora de referncia es: " + str(hora_referencia))
-
 num_trbjs_hora_ref = 0
 
 while num_trabajadores > 0:
